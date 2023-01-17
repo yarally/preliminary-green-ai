@@ -1,3 +1,3 @@
 # green-ai
-Code repository for my master thesis on Green AI
+Code repository for experiments on Green AI
 By Tim Yarally
